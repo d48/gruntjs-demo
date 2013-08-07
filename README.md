@@ -16,6 +16,6 @@ $ npm install
 $ grunt watch
 ```
 
-    1. Open index.html in Google Chrome
-    2. Enable livereload extension in Google Chrome 
-    3. Begin editing any `.js` or `.sass` file in the `/src` directory
+1. Open index.html in Google Chrome
+2. Enable livereload extension in Google Chrome 
+3. Begin editing any `.js` or `.sass` file in the `/src` directory
