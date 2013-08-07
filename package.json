@@ -1,0 +1,16 @@
+{
+  "name": "grunt-sample",
+  "version": "0.0.1",
+  "description": "testing grunt.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "test",
+    "grunt"
+  ],
+  "author": "Ryan Regalado",
+  "license": "BSD"
+}
